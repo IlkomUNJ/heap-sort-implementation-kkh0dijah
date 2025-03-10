@@ -9,3 +9,13 @@
 7. That's it, any commit you made will get notified in the master repo. Please do not make a pull request to the master.
 
 Apologize for the delay, it's relatively hard to setup initial github classroom since the repo need to be configured in strictly specific condition.
+
+# Identity :
+- Name : Khodijah
+- NIM : 1313623002
+- Github : https://github.com/kkh0dijah
+
+# Instruction :
+1. Open terminal 
+2. Type 'g++ src/maxheap.cpp -o maxheap' in terminal
+3. Then type './maxheap'
